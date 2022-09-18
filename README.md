@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naudebrandon
 - 👀 I’m interested in Science and Technology. I love robotics and developing software
-- 🌱 I’m currently learning Web Development, Java, and Python
+- 🌱 I’m currently learning Web Development, Python, CS50x by EdX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on naudebrandon@icloud.com
 
