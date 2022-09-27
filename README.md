@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naudebrandon
-- 👀 I’m interested in Science and Technology. I love robotics and developing software
-- 🌱 I’m currently learning Web Development, Python, CS50x by EdX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on naudebrandon@icloud.com
+- 👀 I’m interested in Science and Technology. I love robotics and developing apps
+- 🌱 I’m currently learning Web Development, Python, and Introduction to Computer Science by Harvardx
+- 💞️ I’m looking to collaborate on beginner projects and apps.
+- 📫 How to reach me naudebrandon@icloud.com
 
 <!---
 naudebrandon/naudebrandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
