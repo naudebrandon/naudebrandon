@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @naudebrandon
-- 👀 I’m interested in Science and Technology. I love robotics developing applications.
-- 🌱 I’m currently learning Computer Science & Software Development through varies platforms.
-- I have worked with JavaScript, C, C# and the .NET Framework, Python, SQL and GIT so far
-- I'm looking in gaining more experience in React for React Native, C, The .NET Framework, Python(AI), Database Development, Django, Swift
-- 💞️ I’m looking to collaborate on projects and apps. I am only staring my development journey, I am looking for employment.
+- 👀 I have an interest in Science, Mathematics, Computers, Music & Technology. I would love to get into Robotics and AI.
+- 🌱 I’m currently learning Computer Science & Software Development online.
+- I have worked with HTML, CSS & JavaScript, C, C#, Python, Django, Flask and SQL
+- I'm looking to gaining more experience in React for React Native, C, The .NET Framework, Python(AI), Database Development, Django and Swift.
+- 💞️ I’m looking to collaborate on projects. I am at the start of my development journey, and looking for employment.
 - 📫 How to reach me naudebrandon@gmail.com
 
 <!---
