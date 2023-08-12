@@ -2,7 +2,7 @@
 - 👀 I have an interest in Science, Mathematics, Music & Technology.
 - 🌱 I’m currently learning Computer Science & Software Development online.
 - I have worked with  HTML, CSS & JavaScript, C, C#, Python, Django, Flask and SQL
-- 💞️ I’m looking to collaborate on projects, and employment.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me naudebrandon@gmail.com
 
 <!---
