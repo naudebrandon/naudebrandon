@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CS50X Final Project**
 
-- 🌱 I’m currently learning **Computer Science, C ,C# Django, React, Flutter, Swift, AWS**
+- 🌱 I’m currently learning **Computer Science, C ,C# Django, React, Flutter, Swift, AWS, PLC programming**
 
 - 👯 I’m looking to collaborate on **any mobile projects**
 
