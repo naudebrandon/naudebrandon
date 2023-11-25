@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science, C ,C# Django, React, Flutter, Swift, PLC programming**
 
-- 👯 I’m looking to collaborate on **any mobile projects**
+- 👯 I’m looking to collaborate on **any projects**
 
 - 👨‍💻 All of my projects are available at [www.mysite.com](www.mysite.com)
 
