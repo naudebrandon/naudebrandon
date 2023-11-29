@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/brandonnaude4" target="blank"><img src="https://img.shields.io/twitter/follow/brandonnaude4?logo=twitter&style=for-the-badge" alt="brandonnaude4" /></a> </p>
 
-- 🔭 I’m currently working on **CS50X Final Project**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Computer Science, C ,C# Django, React, Flutter, Swift, PLC programming**
 
