@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.mysite.com](www.mysite.com)
 
-- 💬 Ask me about **Python, SQL, C-Programming, Flask, UI Design**
+- 💬 Ask me about **Python, SQL, C-Programming, Flask**
 
 - 📫 How to reach me **naudebrandon@gmail.com**
 
