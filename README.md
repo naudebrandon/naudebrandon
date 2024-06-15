@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at [www.mysite.com](www.mysite.com)
+- 👨‍💻 All of my projects are available at [https://main--euphonious-queijadas-e47804.netlify.app/](https://main--euphonious-queijadas-e47804.netlify.app/)
 
 - 💬 Ask me about **Python, SQL, C-Programming, Flask**
 
