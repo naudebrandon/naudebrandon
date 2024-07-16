@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Computer Science, C ,C#, Django, React, Swift, PLC programming**
+- 🌱 I’m currently learning **Computer Science, C, C#, Django, React, Swift, PLC programming**
 
 - 👯 I’m looking to collaborate on **any projects**
 
