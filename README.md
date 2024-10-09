@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/brandonnaude4" target="blank"><img src="https://img.shields.io/twitter/follow/brandonnaude4?logo=twitter&style=for-the-badge" alt="brandonnaude4" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on improving my development skills.
 
-- 🌱 I’m currently learning **Computer Science, C, C#, Django, React, Swift, PLC programming**
+- 🌱 I’m currently learning **AI using Python, R-programming, Django, Swift and SwiftUI, MicroController programming (RPi & Arduino)**
 
-- 👯 I’m looking to collaborate on **any projects**
+- 👯 I’m looking to collaborate on **any mobile or electronic projects**
 
 - 👨‍💻 Some of my projects are available to view at [https://main--euphonious-queijadas-e47804.netlify.app/](https://main--euphonious-queijadas-e47804.netlify.app/)
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/brandonnaude4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brandonnaude4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandon-naude-42280361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-naude-42280361" height="30" width="40" /></a>
-<a href="https://instagram.com/brandonnaude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brandonnaude" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naudebrandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naudebrandon" height="30" width="40" /></a>
 </p>
 
