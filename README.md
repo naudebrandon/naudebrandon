@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on improving my development skills.
 
-- 🌱 I’m currently learning **AI using Python, R-programming, Django, Swift and SwiftUI, MicroController programming (RPi & Arduino)**
+- 🌱 I’m currently learning **R-programming, Django, Swift and SwiftUI, MicroController programming (RPi & Arduino)**
 
 - 👯 I’m looking to collaborate on **any mobile or electronic projects**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, C-Programming, Flask**
 
-- 📫 How to reach me **naudebrandon@gmail.com**
+- 📫 How to reach me **naudebrandon@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
