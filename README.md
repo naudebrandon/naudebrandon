@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, C-Programming, Flask**
 
-- 📫 How to reach me **naudebrandon@icloud.com**
+- 📫 How to reach me **naudebrandon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
