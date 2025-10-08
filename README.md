@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/brandonnaude4" target="blank"><img src="https://img.shields.io/twitter/follow/brandonnaude4?logo=twitter&style=for-the-badge" alt="brandonnaude4" /></a> </p>
 
-- 🔭 I’m currently working on improving my development skills.
+- 🔭 I’m currently working on a mental math app.
 
 - 🌱 I’m currently learning **R-programming, Django, Swift and SwiftUI, MicroController programming (RPi & Arduino)**
 
