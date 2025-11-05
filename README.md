@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a mental math app.
 
-- 🌱 I’m currently learning **R-programming, Django, Swift, SwiftUI, MicroController programming (RPi & Arduino)**
+- 🌱 I’m currently learning **R-programming, Django, Swift, MicroControllers**
 
 - 👯 I’m looking for collaborations.
 
