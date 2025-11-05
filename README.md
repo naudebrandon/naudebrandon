@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate App Developer from South Africa</h3>
+<h3 align="center">A passionate App Developer and STEM enthusiast from South Africa</h3>
 
 <p align="left"> <a href="https://twitter.com/brandonnaude4" target="blank"><img src="https://img.shields.io/twitter/follow/brandonnaude4?logo=twitter&style=for-the-badge" alt="brandonnaude4" /></a> </p>
 
