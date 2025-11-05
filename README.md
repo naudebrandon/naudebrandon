@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **R-programming, Django, Swift, SwiftUI, MicroController programming (RPi & Arduino)**
 
-- 👯 I’m looking to collaborate on **any mobile or electronic projects**
+- 👯 I’m looking for collaborations.
 
 - 👨‍💻 Some of my projects are available to view at [https://main--euphonious-queijadas-e47804.netlify.app/](https://main--euphonious-queijadas-e47804.netlify.app/)
 
