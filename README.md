@@ -9,7 +9,7 @@
 
 - 👯 I’m open to collaborations.
 
-- 👨‍💻 Some of my projects are available to view at **Coming Soon** <!--[https://main--euphonious-queijadas-e47804.netlify.app/](https://main--euphonious-queijadas-e47804.netlify.app/) -->
+<!--- 👨‍💻 Some of my projects are available to view at **Coming Soon** <!--[https://main--euphonious-queijadas-e47804.netlify.app/](https://main--euphonious-queijadas-e47804.netlify.app/) -->
 
 - 💬 Ask me about **Python, SQL, C-Programming, Flask**
 
